@@ -1,11 +1,11 @@
 //Asignar nombre y version de la cache
-const CACHE_NAME = 'v1_cache_UrielGarciaRamirez';
+const CACHE_NAME = 'v1_cache_AlexaGonzalezMartinez';
 
 //ficheros a cachear en la aplicacion
 var urlsToCache = [
     './',
     './CSS/styles.css',
-    './img/ugr.png',
+    './img/favicon.png',
     './img/1.png',
     './img/2.png',
     './img/3.png',
@@ -15,16 +15,16 @@ var urlsToCache = [
     './img/facebook.png',
     './img/instagram.png',
     './img/twitter.png',
-    '/img/ugr1-1024.png',
-    '/img/ugr2-512.png',
-    '/img/ugr3-384.png',
-    '/img/ugr4-256.png',
-    '/img/ugr5-192.png',
-    '/img/ugr6-128.png',
-    '/img/ugr7-96.png',
-    '/img/ugr8-64.png',
-    '/img/ugr9-32.png',
-    '/img/ugr10-16.png'
+    '/img/favicon-1024.png',
+    '/img/favicon-512.png',
+    '/img/favicon-384.png',
+    '/img/favicon-256.png',
+    '/img/favicon-192.png',
+    '/img/favicon-128.png',
+    '/img/favicon-96.png',
+    '/img/favicon-64.png',
+    '/img/favicon-32.png',
+    '/img/favicon-16.png'
 ];
 
 //Evento install
